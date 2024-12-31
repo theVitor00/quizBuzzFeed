@@ -1,0 +1,108 @@
+{
+  "title": "Você seria um herói ou vilão?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super poder você escolheria?",
+      "options": [
+        { "id": 1, "name": "Raios-Lasers", "alias": "A" },
+        { "id": 2, "name": "Voar", "alias": "B" },
+        { "id": 3, "name": "Explodir coisas", "alias": "A" },
+        { "id": 4, "name": "Curar feridas", "alias": "B" },
+        { "id": 5, "name": "Soltar fogo pelas mãos", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro?",
+      "options": [
+        { "id": 1, "name": "Crianças", "alias": "A" },
+        { "id": 2, "name": "Idosos", "alias": "A" },
+        { "id": 3, "name": "Não saberia escolher", "alias": "B" },
+        { "id": 4, "name": "Raios-Lasers", "alias": "A" },
+        { "id": 5, "name": "Uma gostosa", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é a sua maior preocupação ao enfrentar outro adversário?",
+      "options": [
+        { "id": 1, "name": "Não destruir prédios", "alias": "B" },
+        { "id": 2, "name": "Não socar a cara do inimigo", "alias": "A" },
+        { "id": 3, "name": "Não sujar o meu traje", "alias": "A" },
+        { "id": 4, "name": "Não deixar ninguém se ferir", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que motiva suas ações?",
+      "options": [
+        { "id": 1, "name": "Dinheiro", "alias": "A" },
+        { "id": 2, "name": "Fama", "alias": "A" },
+        { "id": 3, "name": "Proteger inocentes", "alias": "B" },
+        { "id": 4, "name": "Desejo de justiça", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Como você enfrentaria um dilema moral?",
+      "options": [
+        { "id": 1, "name": "Seguir regras a qualquer custo", "alias": "B" },
+        { "id": 2, "name": "Fazer o que for necessário", "alias": "A" },
+        { "id": 3, "name": "Evitar tomar decisões difíceis", "alias": "A" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "O que você faria ao encontrar um inimigo derrotado?",
+      "options": [
+        { "id": 1, "name": "Oferecer ajuda", "alias": "B" },
+        { "id": 2, "name": "Garantir que não volte a atacar", "alias": "A" },
+        { "id": 3, "name": "Destruir sua base", "alias": "A" },
+        { "id": 4, "name": "Deixá-lo ir", "alias": "B" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual seria sua base de operações ideal?",
+      "options": [
+        { "id": 1, "name": "Uma caverna secreta", "alias": "B" },
+        { "id": 2, "name": "Um arranha-céu tecnológico", "alias": "A" },
+        { "id": 3, "name": "Uma ilha isolada", "alias": "A" },
+        { "id": 4, "name": "Um esconderijo móvel", "alias": "B" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Como você lidaria com a opinião pública?",
+      "options": [
+        { "id": 1, "name": "Tentaria agradar a todos", "alias": "B" },
+        { "id": 2, "name": "Ignoraria as críticas", "alias": "A" },
+        { "id": 3, "name": "Usaria a mídia a seu favor", "alias": "A" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Qual seria seu traje preferido?",
+      "options": [
+        { "id": 1, "name": "Algo discreto e funcional", "alias": "B" },
+        { "id": 2, "name": "Um traje chamativo e poderoso", "alias": "A" },
+        { "id": 3, "name": "Um traje cheio de tecnologia", "alias": "A" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Se tivesse que escolher um aliado, quem seria?",
+      "options": [
+        { "id": 1, "name": "Um cientista gênio", "alias": "B" },
+        { "id": 2, "name": "Um guerreiro forte", "alias": "A" },
+        { "id": 3, "name": "Alguém com poderes místicos", "alias": "A" },
+        { "id": 4, "name": "Uma pessoa com grandes recursos financeiros", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um Super Vilão!",
+    "B": "Você muito provavelmente seria um Super Herói!"
+  }
+}
